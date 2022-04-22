@@ -17,7 +17,7 @@
 
 - GitHub: [@emmykage](https://github.com/emmykage)
 - Twitter: [@twitterhandle](https://twitter.com/emmykage)
-- LinkedIn: [LinkedIn](morris-menanya-a51985104/)
+- LinkedIn: [Menanya Morris](morris-menanya-a51985104/)
 
 
 ## 🤝 Contributing
